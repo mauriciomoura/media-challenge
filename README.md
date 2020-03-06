@@ -22,5 +22,5 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 
 ### Considere o cadastro com dados básicos:
 
-Usuário: nome completo, email, telefone, sexo, data de nascimento, idade, foto.
-Media: nome, descrição, latitude, longitude, data de criação.
+- Usuário: nome completo, email, telefone, sexo, data de nascimento, idade, foto.
+- Media: nome, descrição, latitude, longitude, data de criação.
