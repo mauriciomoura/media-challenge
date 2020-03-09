@@ -25,16 +25,21 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 - Usuário: nome completo, email, telefone, sexo, data de nascimento, idade, foto.
 - Media: nome, descrição, latitude, longitude, data de criação.
 
+### Documentação:
+
+- Documentação das APIs;
+- Documentação com instruções de uso;
+
 ### Extras
 
-- Criar aplicação para consumir os serviços (web/mobile/pwa/twa);
-- Implementar cadastro e login;
-- Implementar social login (Google/Facebook, etc);
-- Utilizar recursos on cloud;
 - Desenvolver funcionalidade de likes para as medias;
 - Desenvolver funcionalidade de comentários para as medias;
+- Desenvolver aplicação para consumir os serviços (web/mobile/pwa/twa);
+- Utilizar recursos on cloud;
+- Implementar cadastro e login;
+- Implementar social login (Google/Facebook, etc);
 - Implementar social share;
-
+- Implementar CI/CD.
 
 ## Cenário
 
