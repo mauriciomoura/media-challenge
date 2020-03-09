@@ -25,6 +25,17 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 - Usuário: nome completo, email, telefone, sexo, data de nascimento, idade, foto.
 - Media: nome, descrição, latitude, longitude, data de criação.
 
+### Extras
+
+- Criar aplicação para consumir os serviços (web/mobile/pwa/twa);
+- Implementar cadastro e login;
+- Implementar social login (Google/Facebook, etc);
+- Utilizar recursos on cloud;
+- Desenvolver funcionalidade de likes para as medias;
+- Desenvolver funcionalidade de comentários para as medias;
+- Implementar social share;
+
+
 ## Cenário
 
 No nosso dia-a-dia trabalhamos com o desenvolvimento de microserviços desenvolvidos utilizando Spring Boot. Buscamos automação dos processos de garantia da qualidade, testes, deployment e release.
