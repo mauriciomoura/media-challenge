@@ -23,18 +23,23 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 ### Considere o cadastro com dados básicos:
 
 - Usuário: nome completo, email, telefone, sexo, data de nascimento, idade, foto.
-- Media: nome, descrição, latitude, longitude, data de criação.
+- Media: tipo, nome, descrição, latitude, longitude, data de criação, data de upload.
 
 ### Documentação:
 
 - Documentação das APIs;
 - Documentação com instruções de uso;
 
-### Extras
+### Extras:
 
 - Desenvolver funcionalidade de likes para as medias;
 - Desenvolver funcionalidade de comentários para as medias;
 - Desenvolver aplicação para consumir os serviços (web/mobile/pwa/twa);
+  - A aplicação deve listar as medias dos usuários em vários formatos:
+    - Listar medias do usuário como um feed;
+    - Listar por data da criação da media;
+    - Listar por proximidade utilizando a geolocalização;
+    - Exibir medias em um mapa por geolocalização;
 - Utilizar recursos on cloud;
 - Implementar cadastro e login;
 - Implementar social login (Google/Facebook, etc);
