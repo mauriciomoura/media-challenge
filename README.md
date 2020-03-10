@@ -19,11 +19,18 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 - Remover usuário
 - Remover media
 - Alterar os dados do usuário
+- Alterar os dados da media
 
 ### Considere o cadastro com dados básicos:
 
-- Usuário: nome completo, email, telefone, sexo, data de nascimento, idade, foto.
-- Media: tipo, nome, descrição, latitude, longitude, data de criação, data de upload.
+- Usuário: nome completo, nome de usuário, email, telefone, sexo, data de nascimento, idade, foto.
+- Media: tipo, nome, descrição, latitude, longitude, data de criação, data de upload, data da publicação.
+ 
+### Especificações das medias:
+
+  - Foto: 
+    - Máximo de 8 MB
+    - Formatos: JPEG, PNG, BMP, e GIFs não animados.
 
 ### Documentação:
 
@@ -35,7 +42,7 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 - Desenvolver funcionalidade de likes para as medias;
 - Desenvolver funcionalidade de comentários para as medias;
 - Desenvolver aplicação para consumir os serviços (web/mobile/pwa/twa);
-  - A aplicação deve listar as medias dos usuários em vários formatos:
+  - A aplicação deve listar as medias dos usuários de várias formas:
     - Listar medias do usuário como um feed;
     - Listar por data da criação da media;
     - Listar por proximidade utilizando a geolocalização;
