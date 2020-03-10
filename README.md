@@ -41,6 +41,9 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 
 - Desenvolver funcionalidade de likes para as medias;
 - Desenvolver funcionalidade de comentários para as medias;
+- Desenvolver funcionalidade de marcação de usuários para as medias;
+  - Usuários internos.
+  - Usuários externos (link).
 - Desenvolver aplicação para consumir os serviços (web/mobile/pwa/twa);
   - A aplicação deve listar as medias dos usuários de várias formas:
     - Listar medias do usuário como um feed;
