@@ -12,7 +12,7 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 
 - Cadastrar usuário
 - Cadastrar media (foto, vídeo, áudio, texto, arquivo)
-- Consultar usuário pelo nome
+- Consultar usuário pelo nome completo
 - Consultar usuário pelo identificador
 - Consultar media pelo nome
 - Consultar media pelo identificador
@@ -41,6 +41,7 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 
 - Desenvolver funcionalidade de likes para as medias;
 - Desenvolver funcionalidade de comentários para as medias;
+- Consultar usuário pelo nome de usuário (username);
 - Desenvolver funcionalidade de marcação de usuários para as medias;
   - Usuários internos.
   - Usuários externos (link).
