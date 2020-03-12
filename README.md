@@ -53,7 +53,7 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
     - Exibir medias em um mapa por geolocalização;
 - Utilizar recursos on cloud;
 - Implementar cadastro e login;
-- Implementar foto do usuário.
+- Implementar foto perfil do usuário.
 - Implementar social login (Google/Facebook, etc);
 - Implementar social share;
 - Implementar CI/CD.
