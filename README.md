@@ -23,7 +23,7 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
 
 ### Considere o cadastro com dados básicos:
 
-- Usuário: nome completo, nome de usuário, email, telefone, sexo, data de nascimento, idade, foto.
+- Usuário: nome completo, nome de usuário, email, telefone, sexo, data de nascimento, idade.
 - Media: tipo, nome, descrição, latitude, longitude, data de criação, data de upload, data da publicação.
  
 ### Especificações das medias:
@@ -53,6 +53,7 @@ Conhecendo você melhor, poderemos selecionar quais desafios já podemos passar 
     - Exibir medias em um mapa por geolocalização;
 - Utilizar recursos on cloud;
 - Implementar cadastro e login;
+- Implementar foto do usuário.
 - Implementar social login (Google/Facebook, etc);
 - Implementar social share;
 - Implementar CI/CD.
